@@ -1,3 +1,3 @@
-FROM SpEcHlDe/tgtlg:main
+FROM spechlde/tgtlg:main
 WORKDIR /app
 COPY . .
