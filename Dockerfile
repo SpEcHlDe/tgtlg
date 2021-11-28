@@ -1,3 +1,3 @@
-FROM spechlde/tgtlg:latest
+FROM reaitten/tgtlg:latest
 WORKDIR /app
 COPY . .
